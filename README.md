@@ -16,9 +16,7 @@
 <br>
 
 ## 👋 About Me
-
-Java, Spring으로 서비스를 만들고 운영하면서, 그 위에 AI 기능을 붙이는 **Backend & AI Engineer**입니다.
-기록은 [블로그](https://dongseodong.tistory.com/)에 남겨요.
+**Backend & AI Engineer**  |  [📝 Blog](https://dongseodong.tistory.com/)
 
 <br>
 
