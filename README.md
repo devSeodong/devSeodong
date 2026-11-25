@@ -98,7 +98,7 @@ Java, Spring으로 서비스를 만들고 운영하면서, 그 위에 AI 기능�
 
 | 프로젝트 | 무엇을 | 핵심 기술 | 결과 |
 |---|---|---|---|
-| **AX Document Module**<br>사내 문서 AI 플랫폼 (19일) | 7개 포맷 문서 파싱, LLM 맞춤법 검사, Hybrid RAG, 퀴즈 생성을 하나의 문서 구조 위에 구축 | Python, PostgreSQL, pgvector, OpenAI API, SSE | 맞춤법 검사 약 17초에서 7.5초로 단축, 청크 253개를 44개로 정리 |
+| **AX Document Module**<br>사내 문서 AI 플랫폼 | 7개 포맷 문서 파싱, LLM 맞춤법 검사, Hybrid RAG, 퀴즈 생성을 하나의 문서 구조 위에 구축 | Python, PostgreSQL, pgvector, OpenAI API, SSE | 맞춤법 검사 약 17초에서 7.5초로 단축, 청크 253개를 44개로 정리 |
 | **Stack & Stock**<br>뉴스 기반 투자 시뮬레이션 게임 | 뉴스 약 20만 건과 주가 이벤트를 임베딩으로 매칭하고 규칙 기반 점수로 재랭킹 | Python, Voyage AI, Claude API, pgvector, Spring Boot | 매칭 정확도 약 20% 향상, 해커톤 최우수상 🏆 |
 
 <!-- [**Stack & Stock**](https://github.com/devSeodong/레포이름) -->
