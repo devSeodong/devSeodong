@@ -18,16 +18,12 @@
 ## 👋 About Me
 **Backend & AI Engineer**  |  [📝 Blog](https://dongseodong.tistory.com/)
 
-<br>
-
 ## 💼 Career  ·  Backend 경력 약 3년
 
 - **2026 ~ 현재** 　｜ 💼 **재직 중** · Backend & AI Engineer (데이터 · AI 기반 AX 기업)
 - **2025 ~ 2026** 　｜ 🎓 삼성 청년 SW AI 아카데미 (SSAFY) 수료
 - **2022 ~ 2024** 　｜ 💼 **재직** · Backend Developer (CRM 솔루션 기업)
 - **2018 ~ 2022** 　｜ 🎓 성신여자대학교 학사 졸업
-
-<br>
 
 ## 🏆 Awards
 
