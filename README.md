@@ -20,6 +20,21 @@
 
 <br>
 
+## 💼 Career
+
+| 🏆 Awards | |
+|---|---|
+| 2026.05 | 삼성 청년 SW AI 아카데미 프로젝트 **우수상 (2등)** |
+| 2026.03 | 'News To Action' AI 해커톤 **최우수상** (매경미디어 X 앤트로픽) |
+
+| 📜 Certificates | |
+|---|---|
+| 2024.09 | 정보처리기사 |
+| 2025.11 | 데이터분석준전문가 (ADsP) |
+| 2025.12 | SQL개발자 (SQLD) |
+
+<br>
+
 ## 🛠 Tech Stack
 
 **Backend**
@@ -29,9 +44,6 @@
 ![Go](https://img.shields.io/badge/Go-1a1b27?style=for-the-badge&logo=go&logoColor=FFD43B)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1a1b27?style=for-the-badge&logo=springboot&logoColor=FFD43B)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=FFD43B)
-![MyBatis](https://img.shields.io/badge/MyBatis-1a1b27?style=for-the-badge)
-![JPA](https://img.shields.io/badge/JPA-1a1b27?style=for-the-badge&logo=hibernate&logoColor=FFD43B)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-1a1b27?style=for-the-badge&logo=springsecurity&logoColor=FFD43B)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-1a1b27?style=for-the-badge&logo=apachekafka&logoColor=FFD43B)
 ![Redis](https://img.shields.io/badge/Redis-1a1b27?style=for-the-badge&logo=redis&logoColor=FFD43B)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=FFD43B)
@@ -84,29 +96,12 @@
 
 <br>
 
-## 💼 Career
-
-| 🏆 Awards | |
-|---|---|
-| 2026.05 | 삼성 청년 SW AI 아카데미 프로젝트 **우수상 (2등)** |
-| 2026.03 | 'News To Action' AI 해커톤 **최우수상** (매경미디어 X 앤트로픽) |
-
-| 📜 Certificates | |
-|---|---|
-| 2024.09 | 정보처리기사 |
-| 2025.11 | 데이터분석준전문가 (ADsP) |
-| 2025.12 | SQL개발자 (SQLD) |
-
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devSeodong&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFD43B&icon_color=FFD43B&text_color=c9d1d9&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSeodong&layout=compact&bg_color=0d1117&title_color=FFD43B&text_color=c9d1d9&hide_border=true" />
-
 <img src="https://streak-stats.demolab.com?user=devSeodong&background=0d1117&border=0d1117&ring=FFD43B&fire=FFD43B&currStreakLabel=FFD43B&sideLabels=c9d1d9&dates=8b949e&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true" />
+
+<img src="https://raw.githubusercontent.com/devSeodong/devSeodong/output/github-snake-dark.svg" alt="snake" />
 
 </div>
 
@@ -119,24 +114,6 @@
 <a href="https://solved.ac/lara9905">
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lara9905" />
 </a>
-
-<br>
-
-Java로 푼 문제는 [Algorithm](https://github.com/devSeodong/Algorithm) 레포에 정리하고 있어요.
-
-</div>
-
-<br>
-
-## 🌱 Contributions
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
-
-<img src="https://raw.githubusercontent.com/devSeodong/devSeodong/output/github-snake-dark.svg" alt="snake" />
-
-</div>
 
 <br>
 
