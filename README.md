@@ -143,6 +143,11 @@ Java로 푼 문제는 [Algorithm](https://github.com/devSeodong/Algorithm) 레�
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [오늘의 CS/개발 이슈 &lpar;2026.11.25&rpar; - Node.js 보안 릴리스 HIGH 7건, 패치 전까지 버티는 eBPF 방어막 Shirudo](https://dongseodong.tistory.com/64)
+- [오늘의 AI 트렌드 &lpar;2026.11.25&rpar; - 에이전트를 지키는 도구들: safe-anything, AI 공격 탐지 규칙, songe](https://dongseodong.tistory.com/63)
+- [오늘의 AI 이슈 &lpar;2026.11.25&rpar; - OpenRouter ZDR 125곳 회수, 루프 모델 Inkling 2 Mini, 의료 오픈 모델 LingSante](https://dongseodong.tistory.com/62)
+- [오늘의 CS/개발 이슈 &lpar;2026.11.24&rpar; - .NET 8 지원 종료, PostgreSQL 14 EOL, 지금 무엇을 해야 할까](https://dongseodong.tistory.com/61)
+- [오늘의 AI 트렌드 &lpar;2026.11.24&rpar; - 코딩 에이전트에게 &#39;최적화&#39;를 맡기는 레포들](https://dongseodong.tistory.com/60)
 <!-- BLOG-POST-LIST:END -->
 
 📚 더 보기: [dongseodong.tistory.com](https://dongseodong.tistory.com/)
