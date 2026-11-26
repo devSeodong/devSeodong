@@ -1,5 +1,5 @@
 <!-- 헤더: 기존 venom 헤더를 다크모드 + 노란 포인트로 바꾼 버전 -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:FFE57F,100:FFC400&height=300&section=header&text=SEODONG'S%20GITHUB&fontSize=90&fontColor=0d1117&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFE57F,100:FFC400&height=250&section=header&text=SEODONG'S%20GITHUB&fontSize=70&fontColor=0d1117&fontAlignY=40&animation=fadeIn)
 
 <div align="center">
 
