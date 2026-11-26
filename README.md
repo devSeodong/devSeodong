@@ -123,11 +123,11 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [오늘의 CS/개발 이슈 &lpar;2026.11.25&rpar; - Node.js 보안 릴리스 HIGH 7건, 패치 전까지 버티는 eBPF 방어막 Shirudo](https://dongseodong.tistory.com/64)
-- [오늘의 AI 트렌드 &lpar;2026.11.25&rpar; - 에이전트를 지키는 도구들: safe-anything, AI 공격 탐지 규칙, songe](https://dongseodong.tistory.com/63)
-- [오늘의 AI 이슈 &lpar;2026.11.25&rpar; - OpenRouter ZDR 125곳 회수, 루프 모델 Inkling 2 Mini, 의료 오픈 모델 LingSante](https://dongseodong.tistory.com/62)
-- [오늘의 CS/개발 이슈 &lpar;2026.11.24&rpar; - .NET 8 지원 종료, PostgreSQL 14 EOL, 지금 무엇을 해야 할까](https://dongseodong.tistory.com/61)
-- [오늘의 AI 트렌드 &lpar;2026.11.24&rpar; - 코딩 에이전트에게 &#39;최적화&#39;를 맡기는 레포들](https://dongseodong.tistory.com/60)
+- [오늘의 CS/개발 이슈 &lpar;2026.11.26&rpar; - 12월 지원 종료 3종: Docker Engine 25.0, 리눅스 커널 5.15, Spring Boot 4.0](https://dongseodong.tistory.com/70)
+- [오늘의 AI 트렌드 &lpar;2026.11.26&rpar; - 에이전트가 만든 코드를 다듬는 도구들: deslop-please, skill-distill, llm.asm](https://dongseodong.tistory.com/69)
+- [오늘의 AI 이슈 &lpar;2026.11.26&rpar; - Messages API를 Rust로 옮긴 Anthropic, 검증은 운영 트래픽 그림자 비교로](https://dongseodong.tistory.com/68)
+- [티스토리 블로그 GEO 세팅기: ChatGPT&amp;middot;Perplexity 같은 AI 검색에 잘 잡히게 만들기](https://dongseodong.tistory.com/67)
+- [맥 미니 한 대로 티스토리 매일 3편 자동 발행하기 &lpar;launchd + Playwright + Pillow&rpar;](https://dongseodong.tistory.com/66)
 <!-- BLOG-POST-LIST:END -->
 
 📚 더 보기: [dongseodong.tistory.com](https://dongseodong.tistory.com/)
