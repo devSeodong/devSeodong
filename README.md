@@ -123,11 +123,11 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [오늘의 CS/개발 이슈 &lpar;2026.11.27&rpar; - PostgreSQL 19 정식 배포와 14 지원 종료, Angular 22.3](https://dongseodong.tistory.com/71)
 - [오늘의 CS/개발 이슈 &lpar;2026.11.26&rpar; - 12월 지원 종료 3종: Docker Engine 25.0, 리눅스 커널 5.15, Spring Boot 4.0](https://dongseodong.tistory.com/70)
 - [오늘의 AI 트렌드 &lpar;2026.11.26&rpar; - 에이전트가 만든 코드를 다듬는 도구들: deslop-please, skill-distill, llm.asm](https://dongseodong.tistory.com/69)
 - [오늘의 AI 이슈 &lpar;2026.11.26&rpar; - Messages API를 Rust로 옮긴 Anthropic, 검증은 운영 트래픽 그림자 비교로](https://dongseodong.tistory.com/68)
 - [티스토리 블로그 GEO 세팅기: ChatGPT&amp;middot;Perplexity 같은 AI 검색에 잘 잡히게 만들기](https://dongseodong.tistory.com/67)
-- [맥 미니 한 대로 티스토리 매일 3편 자동 발행하기 &lpar;launchd + Playwright + Pillow&rpar;](https://dongseodong.tistory.com/66)
 <!-- BLOG-POST-LIST:END -->
 
 📚 더 보기: [dongseodong.tistory.com](https://dongseodong.tistory.com/)
