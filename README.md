@@ -123,11 +123,11 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [오늘의 CS/개발 이슈 &lpar;2026.11.27&rpar; - PostgreSQL 19 정식 배포와 14 지원 종료, Angular 22.3](https://dongseodong.tistory.com/71)
-- [오늘의 CS/개발 이슈 &lpar;2026.11.26&rpar; - 12월 지원 종료 3종: Docker Engine 25.0, 리눅스 커널 5.15, Spring Boot 4.0](https://dongseodong.tistory.com/70)
-- [오늘의 AI 트렌드 &lpar;2026.11.26&rpar; - 에이전트가 만든 코드를 다듬는 도구들: deslop-please, skill-distill, llm.asm](https://dongseodong.tistory.com/69)
-- [오늘의 AI 이슈 &lpar;2026.11.26&rpar; - Messages API를 Rust로 옮긴 Anthropic, 검증은 운영 트래픽 그림자 비교로](https://dongseodong.tistory.com/68)
-- [티스토리 블로그 GEO 세팅기: ChatGPT&amp;middot;Perplexity 같은 AI 검색에 잘 잡히게 만들기](https://dongseodong.tistory.com/67)
+- [오늘의 AI 트렌드 &lpar;2026.11.28&rpar; - 에이전트에게 도구를 쥐여 주는 레포들: safe-anything, fast-anything, agent-sim](https://dongseodong.tistory.com/86)
+- [로드밸런서 종류 정리 - OSI 7계층으로 이해하는 L2&amp;middot;L3&amp;middot;L4&amp;middot;L7 로드밸런서와 부하 분산 알고리즘](https://dongseodong.tistory.com/85)
+- [OSI 7계층 완벽 정리 - 택배 비유로 이해하는 계층별 역할, 프로토콜, 장비, 캡슐화](https://dongseodong.tistory.com/84)
+- [AI가 뒤집어놓은 수학계 ③ VP &amp;ne; VNP, 47년 난제를 4시간 차이로 풀었다고 발표한 Claude와 OpenAI](https://dongseodong.tistory.com/83)
+- [AI가 뒤집어놓은 수학계 ② 양자 알고리즘, AI가 설계하고 증명까지 한 양자 회로](https://dongseodong.tistory.com/82)
 <!-- BLOG-POST-LIST:END -->
 
 📚 더 보기: [dongseodong.tistory.com](https://dongseodong.tistory.com/)
